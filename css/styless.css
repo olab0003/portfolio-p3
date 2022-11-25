@@ -6,13 +6,14 @@ footer{
 body{
     background-color: #847663;
     margin: 1rem;
+    font-size: larger;
+    font-family: 'Open Sans', sans-serif;
 }
 img{
     padding: 1rem;
 }
 ul{
-    padding: 1rem; 
-    align-items: center;
+    padding: 1rem;
 }
 h4{
     color: #b5b2ac;
