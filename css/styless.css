@@ -1,0 +1,50 @@
+footer{
+    padding: 1rem;
+    font-size: larger;
+    text-align: center;
+}
+body{
+    background-color: #847663;
+    margin: 1rem;
+}
+img{
+    padding: 1rem;
+}
+ul{
+    padding: 1rem; 
+    align-items: center;
+}
+h4{
+    color: #b5b2ac;
+}
+h1{
+    text-align: center;
+}
+
+form button {
+    border: 2px solid black;
+    padding: 1rem;
+    text-transform: uppercase;
+}
+
+form input,
+form textarea {
+  display: b;
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: .5rem 1rem;
+}
+form button:focus{
+    outline: 4px solid black;
+}
+.form-text{
+    color: #000;
+}
+
+:root{
+    --bs-success-rgb: 181, 178, 172;
+}
+
+.nav-pills{
+    --bs-nav-pills-link-active-bg: #b5b2ac;
+}
